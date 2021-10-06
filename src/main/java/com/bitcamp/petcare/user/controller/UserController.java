@@ -44,6 +44,7 @@ public class UserController {
 	@GetMapping("temp")
 	public void temp() {
 		;;
+		//
 	}
 	
 	//view controller 매핑
